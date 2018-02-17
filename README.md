@@ -1,5 +1,10 @@
-make an apple killer with Arduino
+Make an apple killer with Arduino
 ====
+
+![Step](https://github.com/alirezapci/apple-crash/raw/master/img/crash.png)
+
+
+
 
 * Buy one of bellow ESP8266 models
 ESP8266-ESP-12E NodeMcu
@@ -27,20 +32,20 @@ USB to ESP8266 Serial Module TTL Wifi ESP-01 CH340G Development Board Adapter
 [Install arduino studio +  Installing the ESP8266 Arduino Addon](https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide/installing-the-esp8266-arduino-addon)
 * Step 2
 Open crash.ino with arduino studio
-![Step](https://i.ebayimg.com/images/g/mY4AAOSw0fhXidgf/s-l500.jpg)
+![Step](https://github.com/alirezapci/apple-crash/raw/master/img/1.jpg)
 
 
 * Step 3
 Select board model from tools menu 
-![Step](https://i.ebayimg.com/images/g/mY4AAOSw0fhXidgf/s-l500.jpg)
+![Step](https://github.com/alirezapci/apple-crash/raw/master/img/2.jpg)
 * Step 4
 connect your arduino device with usb port
 * Step 5
 select device port from tools menu
-![Step](https://i.ebayimg.com/images/g/mY4AAOSw0fhXidgf/s-l500.jpg)
+![Step](https://github.com/alirezapci/apple-crash/raw/master/img/3.jpg)
 * Step 6
 compile code
-![Step](https://i.ebayimg.com/images/g/mY4AAOSw0fhXidgf/s-l500.jpg)
+![Step](https://github.com/alirezapci/apple-crash/raw/master/img/4.jpg)
 
 * Step 7
 Enjoy ;)
