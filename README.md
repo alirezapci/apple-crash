@@ -6,7 +6,8 @@ Make an apple killer with Arduino
 
 
 
-* Buy one of bellow ESP8266 models
+* Buy one of these arduino models:
+-
 ESP8266-ESP-12E NodeMcu
 [![ESP8266-ESP-12E NodeMcu](https://i.ebayimg.com/images/g/ShQAAOSwImRYSTVS/s-l500.jpg)](https://www.ebay.com/itm/ESP8266-ESP-12E-CH340G-WIFI-Network-Development-Board-Module-For-NodeMcu-Lua/112230225390?epid=18012751789&hash=item1a217155ee:g:ShQAAOSwImRYSTVS)
 
@@ -20,8 +21,8 @@ ESP8266 ESP-01
 
 
 
-* If you select ESP8266 ESP-01 model you most buy ESP-01  Programmer
-USB to ESP8266 Serial Module TTL Wifi ESP-01 CH340G Development Board Adapter
+Notice: if you try to test this apple killer with ESP8266 ESP-01, you have to buy a "ESP-01 Programmer USB to ESP8266 Serial Module TTL Wifi ESP-01" device!
+
 [![USB to ESP8266 Serial Module TTL Wifi ESP-01 CH340G Development Board Adapter](https://i.ebayimg.com/images/g/mY4AAOSw0fhXidgf/s-l500.jpg)](https://www.ebay.com/itm/USB-to-ESP8266-Serial-Module-TTL-Wifi-ESP-01-CH340G-Developent-Board-Adapter/201588307377?hash=item2eef9975b1:g:mY4AAOSw0fhXidgf)
 
 
@@ -60,4 +61,3 @@ Demo (Youtube)
 Demo (Youtube - Persian language)
 
 [![youtube](https://img.youtube.com/vi/62XKI9EaSAg/0.jpg)](https://youtu.be/62XKI9EaSAg)
-
